@@ -3,7 +3,8 @@
 # 任务清单
 ### 开发中
 - **c++**
-  - [ ] ITClassHelper   **△**
+  - [ ] ITClassHelper   **△** 
+  [仓库](https://github.com/huanhuan0812/classtools)
   - [ ] rand
     - simple rand
     - full size rand
@@ -13,7 +14,8 @@
    - [ ] enchantinginfuser mod 1.21    **△**
    - [ ] resilience mod
  - **JavaScript**
-   - [ ] my page
+   - [ ] My Page
+   [仓库](https://github.com/huanhuan0812/huanhuan0812.github.io)
 ### 准备中
   - PPT tool
   - time list
@@ -25,6 +27,7 @@
   - codeE
 ### 长期开发
   - runtime
+  [仓库](https://github.com/huanhuan0812/runtime1)
   - kernel
   - Dynamic Restore FS
   - Class OS
