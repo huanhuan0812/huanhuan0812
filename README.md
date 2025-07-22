@@ -33,4 +33,5 @@
   - Class OS
 ---
 Addition:
-~I ❤ KYH~
+
+I ❤ KYH
