@@ -14,13 +14,15 @@
    - [ ] enchantinginfuser mod 1.21    **△**
    - [ ] resilience mod
  - **JavaScript**
-   - [ ] My Page
+   - [x] My Page
    [仓库](https://github.com/huanhuan0812/huanhuan0812.github.io)
 ### 准备中
   - PPT tool
   - time list
   - desktop
   - schedule
+  - fastchuckmod
+  - dtaftpaper
   - LauncherQ (Qt Minecraft Launcher)
     - Desktop
     - Harmony OS
