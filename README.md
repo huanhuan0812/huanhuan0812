@@ -5,16 +5,11 @@
 - **c++**
   - [ ] ITClassHelper   **△** 
   [仓库](https://github.com/huanhuan0812/classtools)
-  - [ ] rand
-    - [x] simple rand
-    - [ ] full size rand
   - [ ] OnDuty
   - [ ] Screen Locker
+  - [ ] WebDesigner [仓库](https://github.com/huanhuan0812/WebDesigner)
  - **java**
    - [ ] nutrition mod
- - **JavaScript**
-   - [x] My Page
-   [仓库](https://github.com/huanhuan0812/huanhuan0812.github.io)
 ### 准备中
   - PPT tool
   - time list
@@ -26,6 +21,12 @@
     - Desktop
     - Harmony OS
   - codeE
+### 维护/更新中
+  - rand
+    - simple
+    - full size
+  - [x] My Page
+    [仓库](https://github.com/huanhuan0812/huanhuan0812
 ### 长期开发
   - runtime
   [仓库](https://github.com/huanhuan0812/runtime1)
