@@ -6,13 +6,12 @@
   - [ ] ITClassHelper   **△** 
   [仓库](https://github.com/huanhuan0812/classtools)
   - [ ] rand
-    - simple rand
-    - full size rand
+    - [x] simple rand
+    - [ ] full size rand
   - [ ] OnDuty
   - [ ] Screen Locker
  - **java**
-   - [ ] enchantinginfuser mod 1.21    **△**
-   - [ ] resilience mod
+   - [ ] nutrition mod
  - **JavaScript**
    - [x] My Page
    [仓库](https://github.com/huanhuan0812/huanhuan0812.github.io)
