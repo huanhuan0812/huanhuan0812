@@ -5,14 +5,14 @@
 - **c++**
   - [ ] ITClassHelper   **△** 
   [仓库](https://github.com/huanhuan0812/classtools)
-  - [ ] OnDuty
   - [ ] Screen Locker
   - [ ] WebDesigner [仓库](https://github.com/huanhuan0812/WebDesigner)
  - **java**
    - [ ] nutrition mod
 ### 准备中
-  - PPT tool
-  - time list
+  - classtools
+    - schedule
+    - OnDuty
   - desktop
   - schedule
   - fastchuckmod
@@ -25,7 +25,7 @@
   - rand
     - simple
     - full size
-  - [x] My Page
+  - My Page
     [仓库](https://github.com/huanhuan0812/huanhuan0812
 ### 长期开发
   - runtime
