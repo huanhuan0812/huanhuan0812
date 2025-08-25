@@ -17,6 +17,7 @@
   - desktop
   - fastchuckmod
   - dtaftpaper
+  - qtDeployer
   - LauncherQ (Qt Minecraft Launcher)
     - Desktop
     - Harmony OS
