@@ -15,7 +15,6 @@
     - schedule
     - OnDuty
   - desktop
-  - schedule
   - fastchuckmod
   - dtaftpaper
   - LauncherQ (Qt Minecraft Launcher)
@@ -23,10 +22,10 @@
     - Harmony OS
 ### 维护/更新中
   - rand
-    - simple
+    - simple [仓库](https://github.com/huanhuan0812/rand-simple)
     - full size
   - My Page
-    [仓库](https://github.com/huanhuan0812/huanhuan0812
+    [仓库](https://github.com/huanhuan0812/huanhuan0812.github.io)
 ### 长期开发
   - runtime
   [仓库](https://github.com/huanhuan0812/runtime1)
