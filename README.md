@@ -9,6 +9,7 @@
   - [ ] WebDesigner [仓库](https://github.com/huanhuan0812/WebDesigner)
  - **java**
    - [ ] nutrition mod
+   - [ ] CodeE
 ### 准备中
   - classtools
     - schedule
@@ -20,7 +21,6 @@
   - LauncherQ (Qt Minecraft Launcher)
     - Desktop
     - Harmony OS
-  - codeE
 ### 维护/更新中
   - rand
     - simple
