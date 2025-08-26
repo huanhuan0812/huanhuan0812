@@ -4,7 +4,7 @@
 ### 开发中
 - **c++**
   - [ ] ITClassHelper   **△** 
-  [仓库](https://github.com/huanhuan0812/classtools)
+  [仓库](https://github.com/huanhuan0812/classtools/ITClassHelper)
   - [ ] Screen Locker
   - [ ] WebDesigner [仓库](https://github.com/huanhuan0812/WebDesigner)
  - **java**
@@ -17,7 +17,7 @@
   - desktop
   - fastchuckmod
   - dtaftpaper
-  - qtDeployer
+  - qtprojectcreator
   - LauncherQ (Qt Minecraft Launcher)
     - Desktop
     - Harmony OS
@@ -25,6 +25,7 @@
   - rand
     - simple [仓库](https://github.com/huanhuan0812/rand-simple)
     - full size
+  - winqtdeployer [仓库](https://github.com/huanhuan0812/winqtdeployer)
   - My Page
     [仓库](https://github.com/huanhuan0812/huanhuan0812.github.io)
 ### 长期开发
