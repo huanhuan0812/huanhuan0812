@@ -1,17 +1,26 @@
 - 👋 Hi, I’m @huanhuan0812
 
-## 📈 Complete GitHub Analytics
+# huanhuan0812
 
-| | |
-| :---: | :---: |
-| **Overall Stats** | **Coding Streak** |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&count_private=true&include_all_commits=true&theme=defult&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=huanhuan0812&theme=defult&hide_border=true&fire=DD2727) |
-| **Top Languages** | **Achievements** |
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812&layout=compact&theme=defult&hide_border=true&langs_count=6) | ![Trophy](https://github-profile-trophy.vercel.app/?username=huanhuan0812&theme=defult&no-frame=true&row=2) |
+## 📊 Detailed Stats
 
-## 📊 Activity Overview
+<div align="center">
+  
+![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true&theme=default)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huanhuan0812&theme=defult&hide_border=true&area=true&height=300)
+![Weekly Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=huanhuan0812&v=2&hide_border=true&theme=default)
+
+</div>
+
+## 🏆 Achievements & Streak
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huanhuan0812&theme=default&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=huanhuan0812&theme=light&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 # 任务清单
