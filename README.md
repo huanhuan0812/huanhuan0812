@@ -1,4 +1,18 @@
 - 👋 Hi, I’m @huanhuan0812
+
+## 📈 Complete GitHub Analytics
+
+| | |
+| :---: | :---: |
+| **Overall Stats** | **Coding Streak** |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=huanhuan0812&theme=onedark&hide_border=true&fire=DD2727) |
+| **Top Languages** | **Achievements** |
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812&layout=compact&theme=onedark&hide_border=true&langs_count=6) | ![Trophy](https://github-profile-trophy.vercel.app/?username=huanhuan0812&theme=onedark&no-frame=true&row=2) |
+
+## 📊 Activity Overview
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huanhuan0812&theme=github-dark&hide_border=true&area=true&height=300)
+
 ---
 # 任务清单
 ### 开发中
