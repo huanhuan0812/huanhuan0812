@@ -8,8 +8,6 @@
   
 ![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true&theme=default)
 
-![Weekly Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=huanhuan0812&v=2&hide_border=true&theme=default)
-
 </div>
 
 ## 🏆 Achievements & Streak
