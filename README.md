@@ -1,22 +1,29 @@
 - 👋 Hi, I’m @huanhuan0812
+---
 
-# huanhuan0812
-
-## 📊 Detailed Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
-![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812&layout=compact&theme=default&hide_border=true)
 
 </div>
 
-## 🏆 Achievements & Streak
+## 🏆 Achievements
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huanhuan0812&theme=default&hide_border=true)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=huanhuan0812&theme=light&no-frame=true&row=1&column=4)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=huanhuan0812&theme=light&no-frame=true&row=1&column=6)
+</div>
+
+## ⚡ Coding Streak
+
+<div align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=huanhuan0812&theme=light&hide_border=true)
 
 </div>
 
