@@ -76,14 +76,13 @@
 - rand
   - simple 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/rand-simple)
-    [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/rand-simple?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/rand-simple/commits/main)
+    [![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)](https://github.com/huanhuan0812/rand-simple/release) [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/rand-simple)
   - full size
 - winqtdeployer 
   [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
-  [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/winqtdeployer?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/winqtdeployer/commits/main)
+  [![Version](https://img.shields.io/badge/Version-v1.1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer/release/) [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer)
 - My Page
   [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
-  [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/huanhuan0812.github.io?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/huanhuan0812.github.io/commits/main)
 
 ### 📈 Long-term Development
 - runtime 
@@ -96,8 +95,6 @@
 ---
 
 <div align="center">
-
-## ❤️ Special
 
 I :heart: KYH
 
