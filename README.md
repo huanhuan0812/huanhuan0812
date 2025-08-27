@@ -3,7 +3,8 @@
 ## 🚀 Skills & Technologies
 
 <div align="center">
-  
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -19,7 +20,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812&layout=compact&theme=default&hide_border=true&langs_count=8)
@@ -31,7 +32,7 @@
 ## 🏆 Achievements
 
 <div align="center">
-  
+
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=huanhuan0812&theme=light&no-frame=true&row=1&column=4)
 
 </div>
@@ -39,7 +40,7 @@
 ## ⚡ Coding Streak
 
 <div align="center">
-  
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=huanhuan0812&theme=light&hide_border=true&fire=DD2727&currStreakLabel=DD2727)
 
 </div>
