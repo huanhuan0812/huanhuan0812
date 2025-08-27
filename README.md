@@ -5,9 +5,13 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812&layout=compact&theme=default&hide_border=true)
+**标签:** ⭐ 总星数 | 🍴 复刻数 | 📝 提交数 | 🔭 公开仓库 | 🤝 贡献项目
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812&layout=compact&theme=default&hide_border=true&langs_count=8)
+
+**标签:** 💻 主要语言 | 📊 代码分布 | 🏆 技术专长
 
 </div>
 
@@ -17,6 +21,8 @@
   
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=huanhuan0812&theme=light&no-frame=true&row=1&column=4)
 
+**标签:** 🏅 成就奖杯 | 🌟 星级收藏家 | 🚀 快速起步 | 💡 创意贡献
+
 </div>
 
 ## ⚡ Coding Streak
@@ -24,6 +30,8 @@
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com/?user=huanhuan0812&theme=light&hide_border=true)
+
+**标签:** 🔥 连续贡献 | 📅 今日贡献 | 🏁 最长连续 | 📈 活跃趋势
 
 </div>
 
