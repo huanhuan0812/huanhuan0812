@@ -77,6 +77,7 @@
 - LauncherQ (Qt Minecraft Launcher)
   - Desktop
   - Harmony OS
+  - Mobile
 
 ### 🔧 Maintenance/Updates
 - rand
