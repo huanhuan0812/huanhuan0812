@@ -47,10 +47,16 @@
 
 ### 🛠️ In Development
 - **C++**
-  - [ ] ITClassHelper   **△** [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/huanhuan0812/classtools)
-  - [ ] qtprojectcreator [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/huanhuan0812/qtprojectcreator)
+  - [ ] ITClassHelper **△** 
+    [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/classtools)
+    [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/classtools?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/classtools/commits/main)
+  - [ ] qtprojectcreator 
+    [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/qtprojectcreator)
+    [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/qtprojectcreator?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/qtprojectcreator/commits/main)
   - [ ] Screen Locker
-  - [ ] WebDesigner [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/huanhuan0812/WebDesigner)
+  - [ ] WebDesigner 
+    [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/WebDesigner)
+    [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/WebDesigner?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/WebDesigner/commits/main)
 - **Java**
   - [ ] nutrition mod
   - [ ] CodeE
@@ -68,23 +74,30 @@
 
 ### 🔧 Maintenance/Updates
 - rand
-  - simple [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/huanhuan0812/rand-simple)
+  - simple 
+    [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/rand-simple)
+    [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/rand-simple?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/rand-simple/commits/main)
   - full size
-- winqtdeployer [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
-- My Page [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
+- winqtdeployer 
+  [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
+  [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/winqtdeployer?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/winqtdeployer/commits/main)
+- My Page
+  [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
+  [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/huanhuan0812.github.io?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/huanhuan0812.github.io/commits/main)
 
 ### 📈 Long-term Development
-- runtime [![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/huanhuan0812/runtime1)
+- runtime 
+  [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/runtime1)
+  [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/runtime1?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/runtime1/commits/main)
 - kernel
 - Dynamic Restore FS
 - Class OS
 
 ---
-
 I :heart: KYH
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=huanhuan0812&style=flat-square&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=huanhuan0812&style=for-the-badge&color=blueviolet)
 
 </div>
