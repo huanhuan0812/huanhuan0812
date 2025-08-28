@@ -51,19 +51,19 @@
 
 ### 🛠️ In Development
 - **C++**
-  - [ ] ITClassHelper **△** 
+  - ITClassHelper **△** 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/classtools)
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/classtools?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/classtools/commits/main)
-  - [ ] qtprojectcreator 
+  - qtprojectcreator 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/qtprojectcreator)
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/qtprojectcreator?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/qtprojectcreator/commits/main)
-  - [ ] Screen Locker
-  - [ ] WebDesigner 
+  - Screen Locker
+  - WebDesigner 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/WebDesigner)
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/WebDesigner?style=for-the-badge&logo=git)](https://github.com/huanhuan0812/WebDesigner/commits/main)
 - **Java**
-  - [ ] nutrition mod
-  - [ ] CodeE
+  - nutrition mod
+  - CodeE
 - **Python**
 - **JavaScript**
 - **Others**
