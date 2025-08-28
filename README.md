@@ -88,7 +88,7 @@
   - full size
 - winqtdeployer 
   [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
-  [![Version](https://img.shields.io/badge/Version-v1.1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer/release/) [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer)
+  [![Version](https://img.shields.io/badge/Version-v1.2-pre1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer/release/) [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer)
 - My Page
   [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
 
