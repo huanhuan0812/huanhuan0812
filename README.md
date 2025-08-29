@@ -70,13 +70,14 @@
 ### 📝 Planning
 - classtools
   - schedule
+  - launchbar
 - desktop
 - fastchuckmod
 - dtaftpaper
-- LauncherQ (Qt Minecraft Launcher)
-  - Desktop
-  - Harmony OS
-  - Mobile
+- LauncherQ (Minecraft Launcher)
+  - Desktop (Qt)
+  - Harmony OS (flutter)
+  - Mobile (flutter)
 
 ### 🔧 Maintenance/Updates
 - rand
