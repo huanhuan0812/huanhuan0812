@@ -92,7 +92,7 @@
  [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
   [![Version](https://img.shields.io/badge/Version-v1.2pre1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer/release/) [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer)
 - classtools
-  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/onduty)  [![Version](https://img.shields.io/badge/Version-v0.1Unsupposed-blue?style=for-the-badge)](https://github.com/huanhuan0812/onduty/release)
+  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/onduty)  [![Version](https://img.shields.io/badge/Version-v0.1Unsupported-blue?style=for-the-badge)](https://github.com/huanhuan0812/onduty/release)
 - My Page  [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
 
 ### 📈 Long-term Development
