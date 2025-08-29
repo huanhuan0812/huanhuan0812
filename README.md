@@ -9,7 +9,6 @@
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Others](https://img.shields.io/badge/Others-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,7 +70,6 @@
 ### 📝 Planning
 - classtools
   - schedule
-  - OnDuty
 - desktop
 - fastchuckmod
 - dtaftpaper
@@ -89,6 +87,8 @@
 - winqtdeployer 
   [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
   [![Version](https://img.shields.io/badge/Version-v1.2pre1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer/release/) [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer)
+- classtools
+  - OnDuty [![Version](https://img.shields.io/badge/Version-v0.1-blue?style=for-the-badge)]()
 - My Page
   [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
 
