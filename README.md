@@ -50,7 +50,7 @@
 
 ### 🛠️ In Development
 - **C++**
-  - ITClassHelper **△** 
+  - ITClassHelper
     [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/classtools)
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/classtools?style=plastic&logo=git)](https://github.com/huanhuan0812/classtools/commits/main)
   - qtprojectcreator 
