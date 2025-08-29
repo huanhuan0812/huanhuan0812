@@ -83,15 +83,17 @@
 - rand
   - simple 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/rand-simple)
-    [![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)](https://github.com/huanhuan0812/rand-simple/release) [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/rand-simple)
+    [![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)](https://github.com/huanhuan0812/rand-simple/release)
+ [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/rand-simple)
   - full size
+ [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/rand-full)
+ [![Version](https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)](https://github.com/huanhuan0812/rand-full/release)
 - winqtdeployer 
-  [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
+ [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
   [![Version](https://img.shields.io/badge/Version-v1.2pre1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer/release/) [![Times](https://img.shields.io/badge/commit-1-blue?style=for-the-badge)](https://github.com/huanhuan0812/winqtdeployer)
 - classtools
-  - OnDuty [![Version](https://img.shields.io/badge/Version-v0.1-blue?style=for-the-badge)]()
-- My Page
-  [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
+  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/onduty)  [![Version](https://img.shields.io/badge/Version-v0.1Unsupposed-blue?style=for-the-badge)](https://github.com/huanhuan0812/onduty/release)
+- My Page  [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
 
 ### 📈 Long-term Development
 - runtime 
