@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @huanhuan0812
 
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username={huanhuan0812}&layout=compact&theme=radical)
+
 ## 🚀 Skills & Technologies
 
 <div align="center">
