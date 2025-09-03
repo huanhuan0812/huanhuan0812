@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huanhuan0812
+- 👋 Hi, I’m @huanhuan0812 [![wakatime](https://wakatime.com/badge/user/3a778e5c-de2a-46c0-801a-9247e225bb78.svg)](https://wakatime.com/@3a778e5c-de2a-46c0-801a-9247e225bb78)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=huanhuan&layout=compact&theme=light)
 
