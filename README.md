@@ -101,7 +101,7 @@
 ### 📈 Long-term Development
 - runtime 
   [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/runtime1)
-  [![Last Commit](https://img.shields.io/github-last-commit/huanhuan0812/runtime1?style=plastic&logo=git)](https://github.com/huanhuan0812/runtime1/commits/main)
+  [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/runtime1?style=plastic&logo=git)](https://github.com/huanhuan0812/runtime1/commits/main)
 - kernel
 - Dynamic Restore FS
 - Class OS
