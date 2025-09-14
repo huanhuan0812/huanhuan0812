@@ -63,6 +63,8 @@
   - WebDesigner 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/WebDesigner)
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/WebDesigner?style=plastic&logo=git)](https://github.com/huanhuan0812/WebDesigner/commits/main)
+  - Material Design for Qt [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/MDforQt)
+    [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/MDforQt?style=plastic&logo=git)](https://github.com/huanhuan0812/MDforQt/commits/main)
 - **Java**
   - nutrition mod [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/NutritionMod)
   - CodeE [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/CodeE)
