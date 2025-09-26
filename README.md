@@ -116,7 +116,6 @@
 
 <div align="center">
 
-I :heart: KYH
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=huanhuan0812&style=plastic&color=blueviolet)
 
