@@ -73,7 +73,9 @@
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/LANChat?style=plastic&logo=git)](https://github.com/huanhuan0812/LANChat/commits/main)
 - **Java**
   - nutrition mod [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/NutritionMod)
+- **Flutter**
   - CodeE [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/CodeE)
+  - draftpaper
 - **Python**
 - **JavaScript**
 - **Others**
@@ -82,7 +84,6 @@
 - classtools
   - schedule
   - launchbar
-- desktop
 - fastchuckmod
 - dtaftpaper
 - LauncherQ (Minecraft Launcher)
