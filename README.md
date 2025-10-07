@@ -85,7 +85,6 @@
   - schedule
   - launchbar
 - fastchuckmod
-- dtaftpaper
 - LauncherQ (Minecraft Launcher)
   - Desktop (Qt)
   - Harmony OS (flutter)
