@@ -79,6 +79,8 @@
 [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/codeEditor?style=plastic&logo=git)](https://github.com/huanhuan0812/codeEditor/commits/master)
   - draftpaper
 - **Python**
+  - paintboard [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/paintboard)
+    [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/paintboard?style=plastic&logo=git)](https://github.com/huanhuan0812/paintboard/commits/python)
 - **JavaScript**
 - **Others**
 
