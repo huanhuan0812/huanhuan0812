@@ -61,7 +61,6 @@
   - qtprojectcreator 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/qtprojectcreator)
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/qtprojectcreator?style=plastic&logo=git)](https://github.com/huanhuan0812/qtprojectcreator/commits/main)
-  - Screen Locker
   - tasklist
   - WebDesigner 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/WebDesigner)
@@ -70,14 +69,11 @@
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/MDforQt?style=plastic&logo=git)](https://github.com/huanhuan0812/MDforQt/commits/main)
   - SvgViewer [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/SvgViewer)
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/SvgViewer?style=plastic&logo=git)](https://github.com/huanhuan0812/SvgViewer/commits/main)
-  - LANChat [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/LANChat)
-    [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/LANChat?style=plastic&logo=git)](https://github.com/huanhuan0812/LANChat/commits/main)
 - **Java**
   - nutrition mod [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/NutritionMod)
 - **kotlin**
   - CodeEditor [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/CodeEditor) 
 [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/codeEditor?style=plastic&logo=git)](https://github.com/huanhuan0812/codeEditor/commits/master)
-  - draftpaper
 - **Python**
   - paintboard [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/paintboard)
     [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/paintboard?style=plastic&logo=git)](https://github.com/huanhuan0812/paintboard/commits/python)
@@ -86,13 +82,16 @@
 
 ### 📝 Planning
 - classtools
-  - schedule
   - launchbar
-- fastchuckmod
-- LauncherQ (Minecraft Launcher)
-  - Desktop (Qt)
-  - Harmony OS (flutter)
-  - Mobile (flutter)
+  - ppt tools
+  - sidebar
+- AMCL
+- Mac file explorer
+- antiwords
+  - desktop
+  - android
+- Mind Map
+
 
 ### 🔧 Maintenance/Updates
 - rand
@@ -107,7 +106,7 @@
  [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
   [![Version](https://img.shields.io/badge/Version-v1.2pre1-blue?style=plastic)](https://github.com/huanhuan0812/winqtdeployer/release/) [![Times](https://img.shields.io/badge/commit-1-blue?style=plastic)](https://github.com/huanhuan0812/winqtdeployer)
 - classtools
-  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/onduty)  [![Version](https://img.shields.io/badge/Version-v0.1Unsupported-blue?style=plastic)](https://github.com/huanhuan0812/onduty/release)
+  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/onduty)  [![Version](https://img.shields.io/badge/Version-v1.0-blue?style=plastic)](https://github.com/huanhuan0812/onduty/release)
 - My Page  [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
 
 ### 📈 Long-term Development
@@ -116,7 +115,7 @@
   [![Last Commit](https://img.shields.io/github/last-commit/huanhuan0812/runtime1?style=plastic&logo=git)](https://github.com/huanhuan0812/runtime1/commits/main)
 - kernel
 - Dynamic Restore FS
-- Class OS
+- Leaf OS
 
 ---
 
