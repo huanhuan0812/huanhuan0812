@@ -100,20 +100,20 @@
 - rand
   - simple 
     [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/rand-simple)
-    [![Version](https://img.shields.io/badge/Version-v1.1-blue?style=plastic)](https://github.com/huanhuan0812/rand-simple/release)
+    [![Version](https://img.shields.io/badge/Version-v1.1-blue?style=plastic)](https://github.com/huanhuan0812/rand-simple/releases)
 
   - full size
  [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/rand-full)
- [![Version](https://img.shields.io/badge/Version-v1.1-blue?style=plastic)](https://github.com/huanhuan0812/rand-full/release)
+ [![Version](https://img.shields.io/badge/Version-v1.1-blue?style=plastic)](https://github.com/huanhuan0812/rand-full/releases)
 - winqtdeployer 
  [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/winqtdeployer)
   [![Version](https://img.shields.io/badge/Version-v1.2pre1-blue?style=plastic)](https://github.com/huanhuan0812/winqtdeployer/release/) [![Times](https://img.shields.io/badge/commit-1-blue?style=plastic)](https://github.com/huanhuan0812/winqtdeployer)
 - classtools
-  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/onduty)  [![Version](https://img.shields.io/badge/Version-v1.0-blue?style=plastic)](https://github.com/huanhuan0812/onduty/release)
+  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/onduty)  [![Version](https://img.shields.io/badge/Version-v1.0-blue?style=plastic)](https://github.com/huanhuan0812/onduty/releases)
 - My Page  [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
 - qtcsv [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/qtcsv)
-- FFmpegDui-Android
-  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/FFmpegGui-Android)  [![Version](https://img.shields.io/badge/Version-v1.1.0-blue?style=plastic)](https://github.com/huanhuan0812/FFmpegGui-Android/release)
+- FFmpegGui-Android
+  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/FFmpegGui-Android)  [![Version](https://img.shields.io/badge/Version-v1.1.0-blue?style=plastic)](https://github.com/huanhuan0812/FFmpegGui-Android/releases)
 
 ### 📈 Long-term Development
 - runtime 
