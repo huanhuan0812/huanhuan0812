@@ -112,6 +112,8 @@
   - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/onduty)  [![Version](https://img.shields.io/badge/Version-v1.0-blue?style=plastic)](https://github.com/huanhuan0812/onduty/release)
 - My Page  [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/huanhuan0812.github.io)
 - qtcsv [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/qtcsv)
+- FFmpegDui-Android
+  - OnDuty [![Repo](https://img.shields.io/badge/Repository-181717?style=plastic&logo=github)](https://github.com/huanhuan0812/FFmpegGui-Android)  [![Version](https://img.shields.io/badge/Version-v1.1.0-blue?style=plastic)](https://github.com/huanhuan0812/FFmpegGui-Android/release)
 
 ### 📈 Long-term Development
 - runtime 
