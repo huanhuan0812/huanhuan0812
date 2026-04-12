@@ -16,6 +16,8 @@
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=plastic&logo=qt&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white)
