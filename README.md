@@ -30,7 +30,7 @@
 
 ## 📊 Coding Activity (WakaTime)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=huanhuan&layout=compact&theme=light&range=all_time)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=huanhuan0812&layout=compact&theme=light&range=all_time)
 
 ---
 
