@@ -33,9 +33,18 @@
 
 ## 📊 Coding Activity (WakaTime)
 
-![Waka Time](https://huanhuan0812-github-readme-stats.vercel.app/api/wakatime?username=huanhuan&layout=compact&langs_count=20&hide=other)
+<table>
+  <tr>
+    <td>
+      <img src="https://wakatime.com/share/@huanhuan/b764bc6c-0f7c-45e7-a84c-e6a3aced3ada.svg" width="500" />
+    </td>
+    <td>
+      <img src="https://huanhuan0812-github-readme-stats.vercel.app/api/wakatime?username=huanhuan&layout=compact&langs_count=20&hide=other" />
+    </td>
+  </tr>
+</table>
+
 ![](https://wakatime.com/share/@huanhuan/c072cb1a-de10-4287-acb3-228d2ce2962c.svg)
-<img src="https://wakatime.com/share/@huanhuan/b764bc6c-0f7c-45e7-a84c-e6a3aced3ada.svg" width="500" />
 
 ---
 
@@ -43,9 +52,16 @@
 
 <div align="center">
 
-![GitHub Stats](https://huanhuan0812-github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://huanhuan0812-github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812&layout=compact&theme=default&hide_border=true&langs_count=12)
+<table>
+  <tr>
+    <td>
+      <img src="https://huanhuan0812-github-readme-stats.vercel.app/api?username=huanhuan0812&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://huanhuan0812-github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812&layout=compact&theme=default&hide_border=true&langs_count=12" />
+    </td>
+  </tr>
+</table>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huanhuan0812&theme=github-light&hide_border=true&area=true)
 
