@@ -35,6 +35,9 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=huanhuan0812&layout=compact&theme=light&range=all_time)
 
+<figure><embed src="https://wakatime.com/share/@huanhuan/c072cb1a-de10-4287-acb3-228d2ce2962c.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@huanhuan/b764bc6c-0f7c-45e7-a84c-e6a3aced3ada.svg"></embed></figure>
+
 ---
 
 ## 📈 GitHub Analytics
@@ -58,6 +61,18 @@
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=huanhuan0812&theme=light&no-frame=true&row=1&column=4)
 
 </div>
+
+<picture>
+  <source
+    srcset="https://github-profile-trophy-flame-alpha.vercel.app/?username=huanhuan0812&rank=-?&column=-1&margin-w=5&margin-h=5&theme=onedark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy-flame-alpha.vercel.app/?username=huanhuan0812&rank=-?&column=-1&margin-w=5&margin-h=5&theme=flat"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img/>
+</picture>
 
 ---
 
