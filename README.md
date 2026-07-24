@@ -36,8 +36,8 @@
 ![Waka Time](https://huanhuan0812-github-readme-stats.vercel.app/api/wakatime?username=huanhuan&layout=compact&langs_count=20&hide=other)
 ![Top Langs](https://huanhuan0812-github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812)
 
-<figure><embed src="https://wakatime.com/share/@huanhuan/c072cb1a-de10-4287-acb3-228d2ce2962c.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@huanhuan/b764bc6c-0f7c-45e7-a84c-e6a3aced3ada.svg"></embed></figure>
+![](https://wakatime.com/share/@huanhuan/c072cb1a-de10-4287-acb3-228d2ce2962c.svg)
+![](https://wakatime.com/share/@huanhuan/b764bc6c-0f7c-45e7-a84c-e6a3aced3ada.svg)
 
 ---
 
