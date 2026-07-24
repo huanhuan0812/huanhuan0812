@@ -33,7 +33,7 @@
 
 ## 📊 Coding Activity (WakaTime)
 
-![Waka Time](https://huanhuan0812-github-readme-stats.vercel.app/api/wakatime?username=huanhuna0812&layout=compact&langs_count=20&hide=other)
+![Waka Time](https://huanhuan0812-github-readme-stats.vercel.app/api/wakatime?username=huanhuna&layout=compact&langs_count=20&hide=other)
 ![Top Langs](https://huanhuan0812-github-readme-stats.vercel.app/api/top-langs/?username=huanhuan0812)
 
 <figure><embed src="https://wakatime.com/share/@huanhuan/c072cb1a-de10-4287-acb3-228d2ce2962c.svg"></embed></figure>
